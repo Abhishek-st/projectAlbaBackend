@@ -34,3 +34,13 @@ link Backend : https://projectalbackend.herokuapp.com/admin/
      </center><br><br></li>
 
 </ul>
+
+<br><br>
+<h2>For MySql Setup</h2>
+<ul>
+    <li> install mysql on your system</li>
+    <li> install mysql-client in python "pip install mysqlclient"</li>
+    <li> Now Make a database in mysql "create database db"</li>
+    <li> Now make changes in settings.py : Change engine name from db.sqlite to db.mysql, NAME to db name, and then USER and PASSWORD and then Host as localhost<, then Port</li>
+
+</ul>
