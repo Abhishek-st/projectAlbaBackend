@@ -1,1 +1,1 @@
-web: gunicorn sugarData.wsgi --log-file -
+web: gunicorn projectAlba.wsgi --log-file -
