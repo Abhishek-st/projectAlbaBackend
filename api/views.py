@@ -27,7 +27,7 @@ class PostMarks(APIView):
             if serializer.is_valid():
                 serializer.save()
                 return Response({'msg':'Data Created'}, status=status.HTTP_201_CREATED)
-            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+            return Response({'msg':serializer.errors['roll'][0]}, status=status.HTTP_400_BAD_REQUEST)
         else:
             return Response({"msg : marks should be in between 0-100 inclusive"})
 
