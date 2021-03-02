@@ -25,9 +25,7 @@ https://drive.google.com/file/d/16n7UAJ72PVBOQFYIAqYZleJ-QxaLO5az/view?usp=shari
         "roll": Integer,
         "physics": float,
         "chemistry": float,
-        "marks": float
-
-    }</center><br><br></li>
-
+        "marks": float}
+     </center><br><br></li>
 
 </ul>
