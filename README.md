@@ -1,9 +1,14 @@
-# C3P
+# Alma
 
 <h2>Demo Video Link : </h2>
-https://drive.google.com/file/d/16n7UAJ72PVBOQFYIAqYZleJ-QxaLO5az/view?usp=sharing
+https://drive.google.com/file/d/1VOJCzobhmJeK8d64uuikq1Zs6G81Hh0a/view?usp=sharing
 <br>
 
+<h2>Project : </h2>
+ link Frontend : https://projectalbafront.herokuapp.com/
+<br>
+link Backend : https://projectalbackend.herokuapp.com/admin/
+<br>
 <h2>Inatallation SetUp</h2>
 <ul>
     <li> Create virtual environment in python  " python3 -m venv env"</li>
